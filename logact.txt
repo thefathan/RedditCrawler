@@ -1,0 +1,16 @@
+15 Januari 2022
+- membuat sendiri scraper reddit
+- praw sempat tidak dideteksi sebagai module, diganti ke versi 7.1.0
+- ada referensi + bisa membuat data set langsung di https://github.com/pistocop/subreddit-comments-dl
+
+2 Februari 2022
+- ngeclone referensi ke lokal
+
+3 Februari 2023 (Bimbingan TA2)
+- Revisi arsitektur di BAB III (bagian pengambilalan html seharusnya dari API reddit sudah dalam bentuk plain text/xml/json)
+- BAB IV Berisi pengujian requirement yang sudah disebutkan di BAB III
+- Membuat skenario pengujian untuk BAB IV, kemungkinan ada perubahan di BAB III
+- Metodologi data analytics dapat digabungkan ke metodologi SDLC --> di dalam SDLC menjelaskan pemanfaatan software/program untuk data analytics
+- Metodologi data analytics dibuat spesific untuk tujuan akhir dari sistem ini
+
+
