@@ -19,3 +19,9 @@
 - Untuk beberapa kasus, dataset_builder.py dapat digunakan untuk scraping dengan 1 lap (baru dicoba sekali sih)
 - Setelah beberapa kali coba, error csv di atas karena ada data source yang kosong, pastikan saat scraping jangan gagal
 
+15 Februari 2023
+- Scrape hololive subreddit dari 1 Januari 2021 --> hanya sampai 2 februari, total sudah ada 7000 item
+- Perlu diberikan cap untuk komentar di setiap submission agar tidak terlalu banyak saat scrape
+- Cara mengetahui tanggal subredit dibuat adalah dengan menambahkan about.json pada akhir URL subreddit tersebut
+
+
