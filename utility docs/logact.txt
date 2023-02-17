@@ -24,4 +24,10 @@
 - Perlu diberikan cap untuk komentar di setiap submission agar tidak terlalu banyak saat scrape
 - Cara mengetahui tanggal subredit dibuat adalah dengan menambahkan about.json pada akhir URL subreddit tersebut
 
+17 Februari 2023 (Bimbingan)
+- Cek jumlah crawl dengan environment berbeda (beda network, komputer, waktu dll)
+- Buat visualisasi untuk mengaitkan hubungan para aktor di dalam beberapa item diskusi
+- Visualisasi keyword yang paling banyak dibicarakan
+- Hubungan keyword yang paling banyak dibicarakan dan para aktor yang saling berhubungan
+
 
