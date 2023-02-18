@@ -13,4 +13,4 @@ hot_scrape = subreddit.hot(limit=5)
 
 for submission in hot_scrape:
     if not submission.stickied:
-        print(submission.title)
+        print(submission.ups, submission.downs, submission.full_link)

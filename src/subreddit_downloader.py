@@ -177,8 +177,10 @@ def comments_fetcher(sub, output_manager, reddit_api, comments_cap):
         comment_useful_data = {
             "id": comment.id,
             "submission_id": sub.id,
-            "body": comment.body.replace('\n', '\\n'),
             "created_utc": int(comment.created_utc),
+            "author": comment.author,
+            "score": comment.score,
+            "body": comment.body.replace('\n', '\\n'),
             "parent_id": comment.parent_id,
             "permalink": comment.permalink,
         }
@@ -195,7 +197,9 @@ def submission_fetcher(sub, output_manager: OutputManager):
 
     submission_useful_data = {
         "id": sub.id,
-        "created_utc": sub.created_utc,
+        "created_utc": int(sub.created_utc),
+        "author": sub.author,
+        "num_comments": sub.num_comments,
         "title": sub.title.replace('\n', '\\n'),
         "selftext": self_text_normalized,
         "full_link": sub.full_link,

@@ -30,4 +30,8 @@
 - Visualisasi keyword yang paling banyak dibicarakan
 - Hubungan keyword yang paling banyak dibicarakan dan para aktor yang saling berhubungan
 
+18 Februari 2023
+- Menambahkan username reddit ke dalam item yang dilakukan scraping
+- num comments, score, dll juga ditambahkan
+
 
