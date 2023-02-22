@@ -5,7 +5,8 @@ python src/subreddit_downloader.py Hololive --batch-size 10 --laps 3 --reddit-id
 - Run 1: (3 lap, 10 batch, 157 item) Menggunakan sistem lokal - koneksi wifi kos (dengan open VPN - ITB VPN) -- speed 57 MBps, ping 40ms
 - Run 2: (3 lap, 10 batch, 157 item) Menggunakan sistem lokal - koneksi wifi kos (dengan cloudflare 1.1.1.1) -- speed 88 MBps, ping 256ms
 - Run 3: (3 lap, 10 batch, 0 item) Menggunakan sistem lokal - koneksi wifi kos -- speed 82 MBps, ping 11ms
-- Run 4: (3 lap, 10 batch, x item) Menggunakan sistem lokal - koneksi eduroam ITB -- speed x MBps, ping xms
+- Run 4: (3 lap, 10 batch, 157 item) Menggunakan sistem lokal - koneksi eduroam ITB -- speed 15 MBps, ping 19ms
 
 python src/subreddit_downloader.py Hololive --batch-size 50 --laps 5 --reddit-id DnpX9tZO75idVbdUuDUgdg --reddit-secret 8-8kRY17k-I0KsHRh7ey-ZCQjks8vA --reddit-username iammedesu --utc-before 1676946171
 - Run 5: (5 lap, 50 batch, 2677 item) Menggunakan sistem lokal - koneksi wifi kos (dengan open VPN - ITB VPN) -- speed 62 MBps, ping 38ms
+- Run 6: (5 lap, 50 batch, x item) Menggunakan sistem lokal - koneksi eduroam ITB -- speed 15 MBps, ping 19ms
