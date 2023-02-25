@@ -37,4 +37,7 @@
 21 Februari 2023
 - Melakukan percobaan output scrape dari reddit dengan beberapa kondisi (1)
 
+22 Februari 2023
+- Melakukan percobaan di kampus
+
 
