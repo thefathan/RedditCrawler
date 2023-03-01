@@ -40,4 +40,12 @@
 22 Februari 2023
 - Melakukan percobaan di kampus
 
+25 Februari 2022
+- Setup cloud VM
+- Start scrape from VM iterasi 1
+
+26 Februari 2022
+- Error scrape VM iterasi 1
+- Mulai lagi scrape VM iterasi 2
+
 
