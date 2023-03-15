@@ -49,3 +49,7 @@ Antara 25 Feb dan 1 Maret
 1 Maret 2023
 - Finish scrape via VM google timestamp: 1670752763 (December 11, 2022 4.59.23PM)
 - Timestamp diatas atalah batas data terbaru yang bisa discrape menggunakan API Reddit
+
+15 Maret 2023
+- work on ipynb
+- fungsi cleansing (remove stopword) lama banget, mungkin coba di row data yang dikit
