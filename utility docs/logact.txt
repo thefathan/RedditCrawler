@@ -59,3 +59,7 @@ Antara 25 Feb dan 1 Maret
 
 19 Maret 2022
 - Percobaan ekstraksi/crawling di internet rumah
+
+30 Maret 2022
+- Bimbingan TA2: Visualisasi menggunakan fitur milik no limit indonesia
+- Sini hanya memberikan rawdata dan cara pengambilannya
