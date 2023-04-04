@@ -63,3 +63,9 @@ Antara 25 Feb dan 1 Maret
 30 Maret 2022
 - Bimbingan TA2: Visualisasi menggunakan fitur milik no limit indonesia
 - Sini hanya memberikan rawdata dan cara pengambilannya
+
+4 April (no limit)
+- kurang real time
+- kurang mencakup keseluruhan subreddit
+- terdapat gap industry
+- Mungkin bisa dibuat paralel subreddit untuk di crawling secara bersamaan
