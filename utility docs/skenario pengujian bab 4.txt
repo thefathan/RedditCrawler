@@ -14,3 +14,42 @@ python src/subreddit_downloader.py Hololive --batch-size 50 --laps 5 --reddit-id
 - Run 5: (5 lap, 50 batch, 2677 item) Menggunakan sistem lokal - koneksi wifi kos (dengan open VPN - ITB VPN) -- speed 62 MBps, ping 38ms
 - Run 6: (5 lap, 50 batch, 2677 item) Menggunakan sistem lokal - koneksi eduroam ITB -- speed 15 MBps, ping 19ms
 - Run 8: ()
+
+
+REGRESI
+
+Best-fit values
+Slope
+Y-intercept
+X-intercept
+1/Slope
+312.8 ± 3.620
+4093 ± 4871
+-13.08
+0.003197
+95% Confidence Intervals
+Slope
+Y-intercept
+X-intercept
+304.4 to 321.1
+-7140 to 15325
+-49.90 to 22.43
+Goodness of Fit
+R square
+Sy.x
+0.9989
+11468
+Is slope significantly non-zero?
+F
+DFn,DFd
+P Value
+Deviation from horizontal?
+7467
+1,8
+< 0.0001
+Significant
+Data
+Number of XY pairs
+Equation
+10
+Y = 312.8*X + 4093
