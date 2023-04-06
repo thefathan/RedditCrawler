@@ -69,3 +69,7 @@ Antara 25 Feb dan 1 Maret
 - kurang mencakup keseluruhan subreddit
 - terdapat gap industry
 - Mungkin bisa dibuat paralel subreddit untuk di crawling secara bersamaan
+
+6 April (bimbingan)
+- buat perbandingan size dengan jumlah item (regresikan)
+- buat desain visualisasi, nantinya divalidasikan ke no limit apakah seperti ini bisa digunakan apa tidak
