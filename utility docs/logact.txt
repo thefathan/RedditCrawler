@@ -60,7 +60,7 @@ Antara 25 Feb dan 1 Maret
 19 Maret 2022
 - Percobaan ekstraksi/crawling di internet rumah
 
-30 Maret 2022
+30 Maret 2022 (bimbingan)
 - Bimbingan TA2: Visualisasi menggunakan fitur milik no limit indonesia
 - Sini hanya memberikan rawdata dan cara pengambilannya
 
@@ -73,3 +73,7 @@ Antara 25 Feb dan 1 Maret
 6 April (bimbingan)
 - buat perbandingan size dengan jumlah item (regresikan)
 - buat desain visualisasi, nantinya divalidasikan ke no limit apakah seperti ini bisa digunakan apa tidak
+
+13 April (bimbingan)
+- Tambahin keterangan/penjelasan setelah grafik2 (ada hint di docs nya)
+- Desain figma --> dashboard kibana like | kita mengada2 dulu apa aja sih yg bisa ditambilkan di CTI
